@@ -1,0 +1,4 @@
+.idea/
+*.pyc
+django_bkash_integration.egg-info/
+dist/

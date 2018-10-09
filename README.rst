@@ -6,6 +6,10 @@ Bkash Django Integration app is to integrate Bkash Api to Django Backend. With M
 
 Detailed documentation is in the "docs" directory.
 
+Installation
+------------
+``` pip install django-bkash-integration ```
+
 Quick start
 -----------
 

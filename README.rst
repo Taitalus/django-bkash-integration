@@ -8,7 +8,9 @@ Detailed documentation is in the "docs" directory.
 
 Installation
 ------------
-``` pip install django-bkash-integration ```
+Run this command::
+
+    pip install django-bkash-integration
 
 Quick start
 -----------

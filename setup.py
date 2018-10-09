@@ -25,7 +25,8 @@ setup(
         'django>=2.0',
         'djangorestframework>=3.8',
         'hashids>=1.2',
-        'requests>=2.19'
+        'requests>=2.19',
+        'django-model-utils>=3.1'
     ],
     classifiers=[
         'Environment :: Web Environment',
